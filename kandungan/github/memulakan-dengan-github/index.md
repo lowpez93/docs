@@ -22,7 +22,7 @@ versions:
 ### Table of Contents
 
 {% topic_link_in_list /quickstart %}
-    {% link_in_list /set-up-git %}
+    {https://vk.com/
     {% link_in_list /create-a-repo %}
     {% link_in_list /fork-a-repo %}
     {% link_in_list /be-social %}
